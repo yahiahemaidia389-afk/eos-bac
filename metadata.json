@@ -1,0 +1,6 @@
+{
+  "name": "BacNext",
+  "description": "Plateforme d'élite de préparation au Baccalauréat Algérien - Sciences Expérimentales et Mathématiques. Cours, exercices corrigés, sujets du BAC et suivi intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
